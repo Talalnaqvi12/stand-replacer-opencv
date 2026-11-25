@@ -1,0 +1,103 @@
+2025-fmg-factory-edition-graphics-kit-yzf-yz-pw-ttr-wr-wrf-factory-motocross-graphics.webp  ERROR Unable to allocate 122. MiB for an array with shape (2666, 4000, 3) and data type float32
+digital-camouflage-mg-00-graphics-kit-yamaha-yz-yzf-pw-tr-wr-wrf-factory-motocross-graphics.jpg  score 0.56
+factory-kawasaki-graphics-lk-edition-kx-kxf-klx-black-green-team-graphics-kit-factory-motocross-graphics.webp  ERROR Unable to allocate 122. MiB for an array with shape (2666, 4000, 3) and data type float32
+factory-yamaha-graphics-hd-edition-yz-yzf-pw-tr-wr-wrf-factory-motocross-graphics.webp  ERROR Unable to allocate 122. MiB for an array with shape (2666, 4000, 3) and data type float32
+fantic-ambition-black-factory-graphics-kit.png  ERROR Unable to allocate 46.4 MiB for an array with shape (2880, 4223) and data type float32
+fantic-ambition-red-factory-graphics-kit.png  ERROR Unable to allocate 46.4 MiB for an array with shape (2880, 4223) and data type float32
+fantic-ambition-white-factory-graphics-kit.png  ERROR Unable to allocate 139. MiB for an array with shape (2880, 4223, 3) and data type float32
+fantic-arcane-black-white-red-graphics.png  score 0.55
+fantic-cyber-black-factory-graphics-kit.png  ERROR Unable to allocate 139. MiB for an array with shape (2880, 4223, 3) and data type float32
+fantic-cyber-red-factory-graphics-kit.png  ERROR Unable to allocate 139. MiB for an array with shape (2880, 4223, 3) and data type float32
+gas-gas-2025-fmg-factory-edition-graphics-kit-mc-ec-ex-factory-motocross-graphics.webp  ERROR Unable to allocate 265. MiB for an array with shape (2810, 4128, 3) and data type int64
+gas-gas-black-classic-graphics-kit.jpg  score 0.53
+gas-gas-black-stealth-graphics-kit.webp  score 0.58
+gas-gas-hybrid-factory-graphics-kit.webp  ERROR Unable to allocate 133. MiB for an array with shape (2810, 4128, 3) and data type float32
+gas-gas-red-classic-graphics-kit.webp  score 0.54
+gas-gas-velocity-factory-graphics-kit.webp  ERROR Unable to allocate 265. MiB for an array with shape (2810, 4128, 3) and data type int64
+honda-2024-factory-race-graphics-kit.png  ERROR Unable to allocate 151. MiB for an array with shape (3036, 4351, 3) and data type float32
+honda-2025-anniversary-white-factory-edition-graphics-kit-xr-cr-crf-factory-motocross-graphics.webp  ERROR Unable to allocate 244. MiB for an array with shape (2666, 4000, 3) and data type int64
+honda-2025-chrome-anniversary-white-factory-edition-graphics-kit-xr-cr-crf-factory-motocross-graphics.webp  ERROR Unable to allocate 244. MiB for an array with shape (2666, 4000, 3) and data type int64
+honda-2025-fmg-factory-edition-graphics-kit-xr-cr-crf-factory-motocross-graphics.png  ERROR Unable to allocate 244. MiB for an array with shape (2666, 4000, 3) and data type int64
+honda-2025-toon-black-white-graphics-kit-xr-cr-crf-factory-motocross-graphics.webp  ERROR Unable to allocate 244. MiB for an array with shape (2666, 4000, 3) and data type int64
+honda-black-stealth-2-graphics-kit.webp  score 0.61
+honda-castrol-factory-graphics-kit.png  ERROR Unable to allocate 151. MiB for an array with shape (3036, 4351, 3) and data type float32
+honda-chrome-2025-fmg-factory-edition-graphics-kit-xr-cr-crf-factory-motocross-graphics.webp  ERROR Unable to allocate 244. MiB for an array with shape (2666, 4000, 3) and data type int64
+honda-chrome-crf-cr-2025-fmg-graphics-kit.webp  ERROR Unable to allocate 244. MiB for an array with shape (2666, 4000, 3) and data type int64
+honda-chrome-crf-cr-elf-evo-graphics-kit.webp  ERROR Unable to allocate 244. MiB for an array with shape (2666, 4000, 3) and data type int64
+honda-concept-factory-graphics-kit.png  ERROR Unable to allocate 151. MiB for an array with shape (3036, 4351, 3) and data type float32
+honda-cre-cr-red-carbon-2025-graphics-kit-factory-motocross-graphics.webp  ERROR Unable to allocate 53.5 MiB for an array with shape (2803, 5000) and data type float32
+honda-crf-cr-digital-camouflage-graphics-kit-factory-motocross-graphics.webp  ERROR Unable to allocate 244. MiB for an array with shape (2666, 4000, 3) and data type int64
+honda-hybrid-red-factory-graphics-kit.png  ERROR Unable to allocate 50.4 MiB for an array with shape (3036, 4351) and data type float32
+honda-jw-factory-red-graphics-kit.webp  score 0.58
+honda-phantom-black-graphics-kit.jpg  ERROR Unable to allocate 122. MiB for an array with shape (2666, 4000, 3) and data type float32
+honda-phoenix-factory-connection-graphics-kit-xr-cr-crf-factory-motocross-graphics.webp  ERROR Unable to allocate 122. MiB for an array with shape (2666, 4000, 3) and data type float32
+honda-retro-96-graphics-kit.png  ERROR Unable to allocate 50.4 MiB for an array with shape (3036, 4351) and data type float32
+husqvarna-2025-fmg-factory-edition-husqvarna-tc-fc-te-fe-tx-ex-graphics-kit-factory-motocross-graphics.webp  ERROR Unable to allocate 134. MiB for an array with shape (2839, 4139, 3) and data type float32
+husqvarna-husky-black-stealth-graphics-kit.jpg  score 0.59
+husqvarna-hybrid-factory-graphics-kit.webp  ERROR Unable to allocate 44.8 MiB for an array with shape (2839, 4139) and data type float32
+kawasaki-black-palm-graphics-kit-1.jpg  score 0.52
+kawasaki-black-stealth-graphics-kit.jpg  score 0.55
+kawasaki-factory-prado-replica-graphics-kit.jpg  score 0.51
+kawasaki-green-graphics-kit.webp  ERROR Unable to allocate 40.7 MiB for an array with shape (2666, 4000) and data type float32
+kawasaki-kxf-kx-procircuit-black-green-team-graphics-kit-factory-motocross-graphics.webp  ERROR Unable to allocate 40.7 MiB for an array with shape (2666, 4000) and data type float32
+kawasaki-kxf-kx-procircuit-green-team-graphics-kit-factory-motocross-graphics.webp  ERROR Unable to allocate 40.7 MiB for an array with shape (2666, 4000) and data type float32
+kawasaki-matrix-graphics-kit.png  score 0.70
+kawasaki-retro-pink-graphics-kit.png  score 0.56
+kawasaki-splitfire-team-graphics-kit-kx-klx-kxf-factory-motocross-graphics.webp  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 42656000 bytes in function 'OutOfMemoryError'
+
+progressive-honda-chrome-crf-cr-graphics-kit.webp  ERROR Unable to allocate 40.7 MiB for an array with shape (2666, 4000) and data type float32
+progressive-honda-chrome-pirelli-edition-graphics-kit-xr-cr-crf-factory-motocross-graphics.webp  ERROR Unable to allocate 40.7 MiB for an array with shape (2666, 4000) and data type float32
+shark-mouth-camouflage-graphics-kit-yamaha-yz-yzf-pw-tr-wr-wrf-factory-motocross-graphics.jpg  score 0.50
+sherco-black-edition-graphics-kit.png  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 47357440 bytes in function 'OutOfMemoryError'
+
+sherco-blue-edition-graphics-kit.webp  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 47357440 bytes in function 'OutOfMemoryError'
+
+suzuki-2025-fmg-factory-edition-graphics-kit-rm-rmz-rmx-drz-factory-motocross-graphics.png  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 47940480 bytes in function 'OutOfMemoryError'
+
+suzuki-black-stealth-graphics-kit.jpg  score 0.65
+suzuki-fluorescent-fmg-graphics-kit.webp  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 47940480 bytes in function 'OutOfMemoryError'
+
+suzuki-hybrid-factory-graphics-kit.png  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 47940480 bytes in function 'OutOfMemoryError'
+
+suzuki-phantom-black-graphics-kit.jpg  score 0.55
+yamaha-anniversary-2024-graphics-kit.webp  ERROR Unable to allocate 31.6 MiB for an array with shape (2160, 3840) and data type float32
+yamaha-anniversary-74-factory-graphics-kit.webp  ERROR Unable to allocate 40.7 MiB for an array with shape (2666, 4000) and data type float32
+yamaha-blue-shift-factory-graphics-kit.png  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 42896000 bytes in function 'OutOfMemoryError'
+
+yamaha-budlight-factory-graphics-kit.webp  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 49473072 bytes in function 'OutOfMemoryError'
+
+yamaha-fasthouse-doodle-black-v1-graphics-kit-yz-yzf-pw-tr-wr-wrf-factory-motocross-graphics.webp  ERROR Unable to allocate 10.2 MiB for an array with shape (1333, 2000) and data type float32
+yamaha-fasthouse-doodle-white-v1-graphics-kit-yz-yzf-pw-tr-wr-wrf-factory-motocross-graphics.webp  ERROR Unable to allocate 30.5 MiB for an array with shape (1333, 2000, 3) and data type float32
+yamaha-fist-blue-graphics-kit.jpg  ERROR Unable to allocate 41.2 MiB for an array with shape (1200, 1500, 3) and data type int64
+yamaha-fluorescent-graphics-kit.webp  ERROR 
+yamaha-grey-race-graphics-kit.jpg  ERROR Unable to allocate 41.2 MiB for an array with shape (1200, 1500, 3) and data type int64
+yamaha-gytr-red-white-blue-graphics-kit-yz-yzf-pw-tr-wr-wrf-factory-motocross-graphics.webp  ERROR Unable to allocate 30.5 MiB for an array with shape (1333, 2000, 3) and data type float32
+yamaha-hybrid-factory-graphics-kit.webp  ERROR Unable to allocate 122. MiB for an array with shape (2666, 4000, 3) and data type float32
+yamaha-oem-protection-graphics-kit.jpg  ERROR Unable to allocate 41.2 MiB for an array with shape (1200, 1500, 3) and data type int64
+yamaha-of-troy-graphics-kit.webp  ERROR Unable to allocate 10.2 MiB for an array with shape (1333, 2000) and data type float32
+yamaha-pro-circuit-factory-graphics.webp  ERROR Unable to allocate 61.0 MiB for an array with shape (1332, 2000, 3) and data type int64
+yamaha-team-fmg-black-graphics-kit-yzf-yz-pw-ttr-wr-wrf-factory-motocross-graphics.webp  ERROR Unable to allocate 61.0 MiB for an array with shape (1333, 2000, 3) and data type int64
+yamaha-ventura-graphics-kit.jpg  ERROR Unable to allocate 41.2 MiB for an array with shape (1200, 1500, 3) and data type int64
+yamaha-vp-blue-graphics-kit.jpg  ERROR Unable to allocate 41.2 MiB for an array with shape (1200, 1500, 3) and data type int64
+yamaha-vp-grey-graphics-kit.jpg  ERROR Unable to allocate 41.2 MiB for an array with shape (1200, 1500, 3) and data type int64
+yamaha-white-fazzer-graphics-kit.jpg  ERROR Unable to allocate 13.2 MiB for an array with shape (960, 1200, 3) and data type float32
+yamaha-white-jazz-graphics-kit.jpg  ERROR Unable to allocate 1.10 MiB for an array with shape (960, 1200) and data type bool
+yamaha-white-race-graphics-kit.jpg  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 9233288 bytes in function 'OutOfMemoryError'
+
+yamaha-white-sabre-graphics-kit.jpg  ERROR OpenCV(5.1.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 9233288 bytes in function 'OutOfMemoryError'
+
+yamaha-white-vital-graphics-kit.jpg  ERROR Unable to allocate 26.4 MiB for an array with shape (960, 1200, 3) and data type int64
+yamaha-yellow-camo-graphics-kit.jpg  ERROR Unable to allocate 20.6 MiB for an array with shape (1200, 1500, 3) and data type float32
+yamaha-yz-black-graphics-kit.jpg  ERROR Unable to allocate 20.6 MiB for an array with shape (1200, 1500, 3) and data type float32
+yamaha-yz-blue-graphics-kit.jpg  ERROR Unable to allocate 20.6 MiB for an array with shape (1200, 1500, 3) and data type float32
+yamaha-yz-factory-graphics-kit.jpg  ERROR Unable to allocate 20.6 MiB for an array with shape (1200, 1500, 3) and data type float32
+yamaha-yz-grey-graphics-kit.jpg  ERROR Unable to allocate 41.2 MiB for an array with shape (1200, 1500, 3) and data type int64
+yamaha-yz-red-graphics-kit.jpg  ERROR Unable to allocate 41.2 MiB for an array with shape (1200, 1500, 3) and data type int64
+yamaha-yz-white-graphics-kit.jpg  ERROR Unable to allocate 41.2 MiB for an array with shape (1200, 1500, 3) and data type int64
+yamaha-yz-yzf-black-palm-graphics-kit.webp  ERROR 
+yamaha-yzf-black-stealth-2-graphics-kit.webp  score 0.64
+yamaha-yzf-cr22-graphics-kit.webp  score 0.61
+yamaha-yzf-factory-23-graphics-kit.webp  score 0.63
+yamaha-yzf-trend-graphics-kit.webp  score 0.61
+yamaha-yzf-yz-pw-ttr-wr-wrf-pro-circuit-blue-black-team-graphics-factory-motocross-graphics.webp  ERROR Unable to allocate 61.0 MiB for an array with shape (1333, 2000, 3) and data type int64
+yamaha-yzf450-2024-vintage-graphics-kit.webp  ERROR Unable to allocate 39.0 MiB for an array with shape (1066, 1600, 3) and data type int64
