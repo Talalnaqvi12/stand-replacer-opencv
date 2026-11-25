@@ -76,7 +76,7 @@ All three flagged images were stand or background types outside this version's s
 flowchart LR
     A[Input image] --> B[Dark-pixel mask]
     B --> C[Multi-scale template matching on stand silhouette]
-    C -->|score below 0.70| X[Save with _CHECK and list in needs_review.txt]
+    C -->|score below 0.70| 
     C -->|scale and position| D[Map reference panel outlines onto this image]
     D --> E[Fill old panels with the stand's own black]
     E --> F[Remove leftover graphics with connected components]
@@ -173,9 +173,3 @@ tools/make_logo_alpha.py   builds the smooth logo mask from a small logo image
 assets/                    stand_silhouette.png (included); logo_alpha.png (supplied locally)
 requirements.txt           opencv-python, numpy, pillow
 ```
-
-## Development note
-
-Built with AI assistance (Claude). I defined the requirements, tested on real production images, and iterated on the client's feedback; the approach and its trade-offs are documented above.
-
-Sample images are not included because the originals are client assets.
